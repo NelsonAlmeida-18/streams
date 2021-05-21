@@ -1,2 +1,2 @@
-# streams
-Programas feitos em stream
+# Streams
+Projetos random feitos em stream
